@@ -1,15 +1,16 @@
-id: opecha:P007879
+id: P007879
 initial_creation_type: ocr
 source_metadata:
   id: bdr:W21804
   title: གྲོ་ཚང་ས་ཆའི་བག་སྟོན་གྱི་ཆོ་ག་མེ་ཏོག་ཚོམ་བུ།
-  volume:
+  author: ''
+  volumes:
     feccb087b16c48a3ba0e1d435ab633a9:
       image_group_id: I1KG22771
       title: Volume 1 of gro tshang sa cha'i bag ston gyi cho ga me tog rtsom bu
       volume_number: 1
       total_pages: 110
-  author: ''
+      base_file: v001.txt
 ebook_metadata:
   title: གྲོ་ཚང་ས་ཆའི་བག་སྟོན་གྱི་ཆོ་ག་མེ་ཏོག་ཚོམ་བུ།
   author: ''
